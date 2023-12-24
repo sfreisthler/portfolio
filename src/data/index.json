@@ -8,20 +8,38 @@
       },
       {
         "id": "2",
-        "src": "./img/tag-1.png",
-        "title": "Back-End",
+        "src": "./img/aws.jpeg",
+        "title": "AWS",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
       },
       {
         "id": "3",
-        "src": "./img/feather-pen-2.png",
-        "title": "UI & UX Design",
+        "src": "./img/openai.png",
+        "title": "Generative AI",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
       },
       {
         "id": "4",
-        "src": "./img/feather-pen-1.png",
-        "title": "Webflow Development",
+        "src": "./img/postgresql.png",
+        "title": "SQL Databases",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "5",
+        "src": "./img/python.jpg",
+        "title": "Python",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "6",
+        "src": "./img/java.jpg",
+        "title": "Java",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "7",
+        "src": "./img/c.png",
+        "title": "C",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
       }
     ],

@@ -13,6 +13,9 @@
 }
 
 header {
+    position: sticky;
+    top: 0; /* Stick to the top of the viewport */
+    z-index: 100; /* Ensure it's above other elements */
     display: flex;
     align-items: center;
     justify-content: space-between;
